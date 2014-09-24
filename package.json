@@ -6,6 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "gulp": "^3.8.8"
+    "gulp": "^3.8.8",
+    "rootpath": "^0.1.2",
+    "browserify": "^5.12.0"
   }
 }
